@@ -3,7 +3,6 @@ class Node
 public:
   int data;
   Node *next;
-
 };
 
 void Display (Node * p)
